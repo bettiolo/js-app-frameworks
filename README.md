@@ -5,3 +5,5 @@ js-app-frameworks
 
 - http://chaplinjs.org/
 - http://yeoman.io/
+- http://sammyjs.org/
+- http://backbonejs.org/
