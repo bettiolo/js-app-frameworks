@@ -8,3 +8,6 @@ js-app-frameworks
 - http://sammyjs.org/
 - http://backbonejs.org/
 - http://marionettejs.com/
+
+Acceptance Tests:
+- https://github.com/nodejitsu/kyuri - Gherkin syntax
