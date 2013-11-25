@@ -7,3 +7,4 @@ js-app-frameworks
 - http://yeoman.io/
 - http://sammyjs.org/
 - http://backbonejs.org/
+- http://marionettejs.com/
